@@ -1,0 +1,146 @@
+{
+	"folders": [
+		{
+			"name": "PROGRAMOWANIE SIECIOWE",
+			"path": "../../../SEM 6/PROGRAMOWANIE SIECIOWE"
+		},
+		{
+			"name": "AO",
+			"path": "../../SEM 1/AO"
+		},
+		{
+			"name": "WPD",
+			"path": "../../SEM 1/WPD"
+		},
+		{
+			"name": "GIGANCI",
+			"path": "../../../../Praca/GIGANCI"
+		},
+		{
+			"path": "../../SEM2/Superkomputery"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../SEM2/MEIAD"
+		},
+		{
+			"path": "../../SEM2/GSN"
+		},
+		{
+			"path": "../../SEM2/APO"
+		},
+		{
+			"path": "../../SEM2/PPrzejsciowy"
+		},
+		{
+			"path": "../../SEM2/BD"
+		},
+		{
+			"path": "../../SEM3/WspomDec"
+		},
+		{
+			"path": "../../../../devskiller"
+		},
+		{
+			"path": "../../../SEM 4/PAMSI/KółkoKrzyżyk"
+		}
+	],
+	"settings": {
+		"codetogether.virtualCursorJoin": "ownVirtualCursor",
+		"files.associations": {
+			"iostream": "cpp",
+			"thread": "cpp",
+			"string": "cpp",
+			"filesystem": "cpp",
+			"xstring": "cpp",
+			"ostream": "cpp",
+			"__nullptr": "cpp",
+			"exception": "cpp",
+			"initializer_list": "cpp",
+			"new": "cpp",
+			"optional": "cpp",
+			"stdexcept": "cpp",
+			"typeinfo": "cpp",
+			"algorithm": "cpp",
+			"array": "cpp",
+			"atomic": "cpp",
+			"bit": "cpp",
+			"bitset": "cpp",
+			"cctype": "cpp",
+			"charconv": "cpp",
+			"chrono": "cpp",
+			"clocale": "cpp",
+			"cmath": "cpp",
+			"codecvt": "cpp",
+			"compare": "cpp",
+			"complex": "cpp",
+			"concepts": "cpp",
+			"csignal": "cpp",
+			"cstdarg": "cpp",
+			"cstddef": "cpp",
+			"cstdint": "cpp",
+			"cstdio": "cpp",
+			"cstdlib": "cpp",
+			"cstring": "cpp",
+			"ctime": "cpp",
+			"cwchar": "cpp",
+			"cwctype": "cpp",
+			"deque": "cpp",
+			"forward_list": "cpp",
+			"list": "cpp",
+			"map": "cpp",
+			"set": "cpp",
+			"unordered_map": "cpp",
+			"vector": "cpp",
+			"format": "cpp",
+			"fstream": "cpp",
+			"functional": "cpp",
+			"iomanip": "cpp",
+			"ios": "cpp",
+			"iosfwd": "cpp",
+			"istream": "cpp",
+			"iterator": "cpp",
+			"limits": "cpp",
+			"locale": "cpp",
+			"memory": "cpp",
+			"mutex": "cpp",
+			"numeric": "cpp",
+			"queue": "cpp",
+			"ranges": "cpp",
+			"ratio": "cpp",
+			"span": "cpp",
+			"sstream": "cpp",
+			"stack": "cpp",
+			"stop_token": "cpp",
+			"streambuf": "cpp",
+			"strstream": "cpp",
+			"system_error": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"typeindex": "cpp",
+			"utility": "cpp",
+			"xfacet": "cpp",
+			"xhash": "cpp",
+			"xiosbase": "cpp",
+			"xlocale": "cpp",
+			"xlocbuf": "cpp",
+			"xlocinfo": "cpp",
+			"xlocmes": "cpp",
+			"xlocmon": "cpp",
+			"xlocnum": "cpp",
+			"xloctime": "cpp",
+			"xmemory": "cpp",
+			"xtr1common": "cpp",
+			"xtree": "cpp",
+			"xutility": "cpp",
+			"condition_variable": "cpp",
+			"coroutine": "cpp",
+			"resumable": "cpp",
+			"unordered_set": "cpp",
+			"future": "cpp",
+			"random": "cpp"
+		}
+	}
+}
